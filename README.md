@@ -15,6 +15,7 @@ Features:
   - Uses CSS for layout and responsive features
   - Includes anchor links for easy navigation to specific page sections,
   - Features links to external profiles and more detailed information about players and coaches.
+  - Utilizes a fixed header that remains visible at the top of the viewport as the user scrolls up and down the page.
 
 *Beware: this website works well on computers, but doesn't look incredible on phones!(yet as of May 3rd)
 
