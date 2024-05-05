@@ -11,7 +11,10 @@ Description: Part of FreeCodeCamp's Responsive Web Design Certification curricul
 Features: 
   
   CSS Styling:
-  - Employs team colors for a stylish presentation and visually distinct sections., Uses CSS for layout and responsive features, features anchor links for easy navigation to specific page sections, features links to external profiles and more detailed information about players and coaches.
+  - Employs team colors for a stylish presentation and visually distinct sections.
+  - Uses CSS for layout and responsive features
+  - fFatures anchor links for easy navigation to specific page sections,
+  - Features links to external profiles and more detailed information about players and coaches.
 
 *Beware: this website works well on computers, but doesn't look incredible on phones!
 
