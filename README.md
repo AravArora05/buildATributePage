@@ -13,10 +13,10 @@ Features:
   CSS Styling:
   - Employs team colors for a stylish presentation and visually distinct sections.
   - Uses CSS for layout and responsive features
-  - fFatures anchor links for easy navigation to specific page sections,
+  - Includes anchor links for easy navigation to specific page sections,
   - Features links to external profiles and more detailed information about players and coaches.
 
 *Beware: this website works well on computers, but doesn't look incredible on phones!
 
-Remarks: Since we haven't really dwelved into media queries, the thing looks absoultely horrible on devices such as my iphone! I need to work better to improve upon responsive web design. In future projects, I will try to figure out how to make the assignment a bit more responsive! I will be starting the second half of the course on Monday, which is more focused on making the websites responsive for all devices!
-
+Remarks: Since we haven't really dwelved into media queries, the project looks mediocre on smaller devices! I need to work better to improve upon responsive web design. In future projects, I will try to figure out how to make HTML/CSS code more responsive! 
+In later May, I will likely come back to this project, and I will attempt to add responsiveness for all devices!
