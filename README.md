@@ -9,15 +9,15 @@ Project: Build A Tribue for a person/place/thing
 Description: Part of FreeCodeCamp's Responsive Web Design Certification curriculum, this project involves creating a tribute form using HTML/CSS
 
 Features: 
-CSS Styling:
-- Employs team colors for a stylish presentation and visually distinct sections.
-- Uses CSS for layout and responsive features, ensuring adaptability of images and navigation on various devices.
-
-Navigation Menu:
-- Features anchor links for easy navigation to specific page sections(I tried to link to each of the important sections)
-
-Interactive Media:
-- With anchor elements, I featured links to external profiles and more detailed information about players and coaches.
+  CSS Styling:
+  - Employs team colors for a stylish presentation and visually distinct sections.
+  - Uses CSS for layout and responsive features, ensuring adaptability of images and navigation on various devices.
+  
+  Navigation Menu:
+  - Features anchor links for easy navigation to specific page sections(I tried to link to each of the important sections)
+  
+  Interactive Media:
+  - With anchor elements, I featured links to external profiles and more detailed information about players and coaches.
 
 *Beware: this website works well on computers, but doesn't look incredible on phones!
 
